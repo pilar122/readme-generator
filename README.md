@@ -40,8 +40,8 @@ npm inquirer must be installed for application to run
 ## License
 This application is licensed under the MIT license.
     
-## Contributing
-n/a
+## Video
+https://www.hippovideo.io/video/play/ptpB6kO0pmwocyOeGpOU2lWt4VPoiEdtLtTopTM4wvQ?utm_source=hv-campaigns&hreferer=private&_=1613967394703
     
 ## Questions
 If you have any questions about the repo, please [open an issue](https://github.com/pilar122/readme-generator/issues) or contact me via email at n/a. You can find more of my work on my GitHub, [pilar122](https://github.com/pilar122/).
