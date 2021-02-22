@@ -4,15 +4,14 @@
 ## Description
 Node.js application that permits users to generate a README
             
-View the deployed page at [README Generator](https://pilar122.github.io/readme-generator/).
+View the deployed page at [README Generator] https://github.com/pilar122/readme-generator.
 ## Contents
 * [Installation](#installation)
 * [Usage](#usage)
-   * [Screenshots](#screenshots)
+* [Screenshots](#screenshots)
 * [Built With](#built-with)
 * [License](#license)
-* [Contributing](#contributing)
-* [Questions](#questions)
+* [Video](#video)
 * [Credits](#credits)
 
 ## Installation
@@ -27,7 +26,6 @@ npm inquirer must be installed for application to run
 ### Screenshots
 ![screenshot-Readme](![Screen Shot 2021-02-21 at 8 32 48 PM (2)](https://user-images.githubusercontent.com/71223784/108654472-fa13b500-7485-11eb-9177-8d2249bafb07.png))
 
-
 ## Built With
 
 * HTML
@@ -38,15 +36,12 @@ npm inquirer must be installed for application to run
 * Express.js
     
 ## License
-This application is licensed under the MIT license.
+MIT license
     
 ## Video
 https://www.hippovideo.io/video/play/ptpB6kO0pmwocyOeGpOU2lWt4VPoiEdtLtTopTM4wvQ?utm_source=hv-campaigns&hreferer=private&_=1613967394703
     
-## Questions
-If you have any questions about the repo, please [open an issue](https://github.com/pilar122/readme-generator/issues) or contact me via email at n/a. You can find more of my work on my GitHub, [pilar122](https://github.com/pilar122/).
-    
 ## Credits
-* [xandromous](https://github.com/coding-boot-camp/potential-enigma)
+[xandromous](https://github.com/coding-boot-camp/potential-enigma)
 
     
